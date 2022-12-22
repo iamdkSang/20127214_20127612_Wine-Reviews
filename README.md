@@ -32,3 +32,10 @@ The data consists of 13 fields:
 
 You can see the project plan here:
 - [GoogleSheets](https://docs.google.com/spreadsheets/d/1a6YCNYcfdeE-low_JD90kefmyRYT_R-RUc9q5kXrmbk/edit?usp=sharing)
+
+# Notes
+
+- *20127214_20127612.ipynb*: main code file
+- *Data*: folder contains dataset
+- *.gitattributes*: file handles large file uploaded on Github
+- *.DS_Store*: files are automatically generated when transferring files from macOS to other operating systems (not important file)
