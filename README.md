@@ -1,6 +1,7 @@
 # Wine Reviews
 
-This dataset is ..........
+This dataset is about the reviews of wines from all over the world based on factors such as sommelier taste, grape variety, score, price...
+
 
 ---
 
